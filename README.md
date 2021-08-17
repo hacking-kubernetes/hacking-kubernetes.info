@@ -11,12 +11,12 @@ The book is available via [O'Reilly online in Early Release](https://learning.or
 * Chapter 2: where we focuses on pods, from configurations to attacks to defenses.
 * Chapter 3: we switch gears and dive deep into sandboxing and isolation techniques (KVM, gVisor, Firecracker, Kata).
 * Chapter 4: covers supply chain attacks and what you can do to detect and mitigate them.
-* Chapter 5: where we review networking defaults and how to secure your cluster and workload traffic.
-* Chapter 6: we shift our focus on the persistency aspects, looking at file‐ systems, volumes, and sensitive information at rest.
-* Chapter 7: covers the topic of running workloads for multi tenants in a cluster and what can go wrong with this.
-* Chapter 8: we focus on review different kinds of policies in use, discuss access control—specifically RBAC—and generic policy solutions such as OPA.
-* Chapter 9: we cover the question what you can do if, despite controls put in place, someone manages to break in (IDS).
-* Chapter 10: a somewhat special one, in that it doesn’t focus on tool‐ ing but on the human side of things, in the context of cloud as well as on-prem installations.
+* Chapter 5: where we review networking defaults and how to secure your cluster and workload traffic incl. service meshes and eBPF.
+* Chapter 6: we shift our focus on the persistency aspects, looking at filesystems, volumes, and sensitive information at rest.
+* Chapter 7: covers the topic of running workloads for multi-tenants in a cluster and what can go wrong with this.
+* Chapter 8: we review different kinds of policies in use, discuss access control—specifically RBAC—and generic policy solutions such as OPA.
+* Chapter 9: we cover the question what you can do if, despite controls put in place, someone manages to break  (intrusion detection system, etc.).
+* Chapter 10: a somewhat special one, in that it doesn’t focus on tooling but on the human aspects, in the context of public cloud as well as on-prem environments.
 
 ## About the authors
 
