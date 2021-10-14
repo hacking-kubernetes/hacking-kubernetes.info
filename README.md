@@ -1,7 +1,7 @@
 Running cloud native workloads on Kubernetes can be challenging: keeping them secure is even more so. Kubernetes' complexity offers malicious in-house users and external attackers alike a large assortment of attack vectors. In this book, 
 [Andrew Martin](https://twitter.com/sublimino) and [Michael Hausenblas](https://twitter.com/mhausenblas) review Kubernetes defaults and threat models and shows how to protect against attacks.
 
-The book is available via [O'Reilly online in Early Release](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/) and by late 2021 it will be available in full.
+The book is published and available via [O'Reilly](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/) or [Amazon](https://www.amazon.com/Hacking-Kubernetes-Threat-Driven-Analysis-Defense/dp/1492081736).
 
 ![book cover](hk-cover.png)
 
