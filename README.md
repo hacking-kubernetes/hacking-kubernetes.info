@@ -3,7 +3,7 @@ Running cloud native workloads on Kubernetes can be challenging: keeping them se
 
 The book is available via [O'Reilly online in Early Release](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/) and by late 2021 it will be available in full.
 
-![book cover](hk.png)
+![book cover](hk-cover.png)
 
 ## Coverage
 
