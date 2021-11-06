@@ -1,4 +1,10 @@
-Running cloud native workloads on Kubernetes can be challenging: keeping them secure is even more so. Kubernetes' complexity offers malicious in-house users and external attackers alike a large assortment of attack vectors. In this book, 
+# Free Download
+
+ControlPlane is sponsoring the first four chapters of the book, [download them for free](https://control-plane.io/hackingkubernetes/).
+
+# Hacking Kubernetes
+
+Running cloud native workloads on Kubernetes can be challenging: keeping them secure is even more so. Kubernetes' complexity offers malicious in-house users and external attackers alike a large assortment of attack vectors. In this book,
 [Andrew Martin](https://twitter.com/sublimino) and [Michael Hausenblas](https://twitter.com/mhausenblas) review Kubernetes defaults and threat models and shows how to protect against attacks.
 
 The book is published and available via [O'Reilly](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/) or [Amazon](https://www.amazon.com/Hacking-Kubernetes-Threat-Driven-Analysis-Defense/dp/1492081736).
